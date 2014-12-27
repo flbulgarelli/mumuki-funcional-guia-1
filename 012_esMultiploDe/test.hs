@@ -15,10 +15,10 @@ describe "esMultiploDe" $ do
     (20 `esMultiploDe` 5) `shouldBe` True
 
   it "devuelve False dado un 3 y un 2" $ do
-    (3 `esMultiploDe` 2) `shouldBe` True
+    (3 `esMultiploDe` 2) `shouldBe` False
 
   it "devuelve False dado un 30 y un 40" $ do
-    (30 `esMultiploDe` 40) `shouldBe` True
+    (30 `esMultiploDe` 40) `shouldBe` False
 
   it "devuelve False dado un 8 y un 7" $ do
-    (8 `esMultiploDe` 7) `shouldBe` True
+    (8 `esMultiploDe` 7) `shouldBe` False
