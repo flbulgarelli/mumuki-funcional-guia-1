@@ -1,7 +1,7 @@
-Definir la función ```area/2```, que devuelve el área de un rectángulo a partir de su base y su altura.
+Definir la función ```celsiusToFahr/2```, que a partir de una cantidad de grados en escala Celsius, devuelvo el equivalente en escala Fahrenheit.
 
 ```
-Main> area 4 3
-12
+Main> celsiusToFahr 100
+212
 ```
 
