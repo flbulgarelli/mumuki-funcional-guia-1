@@ -1,4 +1,4 @@
-esMultiploDe x y = mod x y == 0
+let esMultiploDe x y = mod x y == 0
 
 describe "esBisiesto" $ do
   it "1004 es bisiesto" $ do
