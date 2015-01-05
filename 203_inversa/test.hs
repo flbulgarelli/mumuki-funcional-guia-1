@@ -1,6 +1,6 @@
 describe "inversa" $ do
   it "inversa 1 == 1" $ do
-    inversa 1 `shouldBe` 2
+    inversa 1 `shouldBe` 1
 
   it "inversa 4 == 0.25" $ do
     inversa 4 `shouldBe` 0.25
