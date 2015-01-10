@@ -1,2 +1,2 @@
-3.2. Resolver la función del ejercicio 1.5 de esta guía ```esBisiesto/1```, utilizando aplicación
+﻿Resolver la función del ejercicio de esta guía **esBisiesto**/1, utilizando aplicación
 parcial y composición

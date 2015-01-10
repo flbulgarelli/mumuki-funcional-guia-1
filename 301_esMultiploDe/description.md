@@ -1,2 +1,2 @@
-3.1. Resolver la función del ejercicio 1.2 de esta guía ```esMultiploDe/2```, utilizando
+﻿Resolver la función del ejercicio de esta guía **esMultiploDe**/2, utilizando
 aplicación parcial y composición.
