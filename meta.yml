@@ -1,2 +1,3 @@
 locale: es
 language: haskell
+original_id_format: '%05d'
